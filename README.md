@@ -63,7 +63,7 @@ plt.axis('off')
 
 **OUTPUT:**
 
-<img width="531" height="511" alt="image" src="https://github.com/user-attachments/assets/fd35469b-e467-40a1-ac9d-e394a4d0e6c7" />
+<img width="231" height="251" alt="image" src="https://github.com/user-attachments/assets/74849fd4-9e76-4bb5-a6b8-14e2b48c4523" />
 
 ### 4. Global Thresholding
 
@@ -80,7 +80,7 @@ plt.axis('off')
 
 **OUTPUT:**
 
-<img width="552" height="512" alt="image" src="https://github.com/user-attachments/assets/d9c67db1-6b61-4dd4-a19d-cd63000a8edd" />
+<img width="276" height="292" alt="image" src="https://github.com/user-attachments/assets/e5693dff-f99b-4bfb-b3a7-38437816793e" />
 
 ### 5. Adaptive Thresholding
 
@@ -102,7 +102,7 @@ plt.axis('off')
 
 **OUTPUT:**
 
-<img width="590" height="507" alt="image" src="https://github.com/user-attachments/assets/8d5f458f-1d79-4c64-9424-6a571cab3fce" />
+<img width="347" height="311" alt="image" src="https://github.com/user-attachments/assets/8f37a50e-0777-47ba-ad5a-2d49a775d79f" />
 
 ### 6. Otsu's Thresholding
 
@@ -120,7 +120,7 @@ plt.axis('off')
 
 **OUTPUT:**
 
-<img width="386" height="332" alt="image" src="https://github.com/user-attachments/assets/046024c7-1256-419b-95c0-b461873794e2" />
+<img width="270" height="302" alt="image" src="https://github.com/user-attachments/assets/d66f761b-9b9b-4413-b36f-43e6e562a863" />
 
 ### 7. Display All Outputs
 
